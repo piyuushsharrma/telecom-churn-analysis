@@ -78,7 +78,7 @@ dashboard/         Power BI file and build guide
 
 ## How to run
 ```bash
-git clone https://github.com/<your-username>/telecom-churn-analysis.git
+git clone https://github.com/piyuushsharrma/telecom-churn-analysis.git
 cd telecom-churn-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/churn_analysis.ipynb
